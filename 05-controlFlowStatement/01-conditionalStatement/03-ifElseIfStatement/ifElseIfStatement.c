@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int numberOne = 0;
+
 int main(void)
 {
 	printf("Enter Number : ");

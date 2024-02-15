@@ -23,7 +23,7 @@ int main(void)
 		it overrides value of opernad 1 by the result of addition of operand1 and operand2
 	*/
 
-	numberTwo += numberOne;
+	numberOne += numberTwo;
 
 	printf("Addition = %d\n",numberTwo);
 

@@ -24,7 +24,7 @@ int main(void)
 		{
 			for(numberTwo = 1;numberTwo <= numberOne;numberTwo++,counterNumber++)
 			{
-				printf("%d",counterNumber);
+				printf("%d ",counterNumber * counterNumber);
 			}
 			printf("\n");
 		}
@@ -40,7 +40,7 @@ OUTPUT
 
 
   1
- 234
-56789
+ 4 9 16
+25 36 49 64 81
 
 */
